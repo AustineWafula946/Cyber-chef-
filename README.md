@@ -6,17 +6,23 @@ I used CyberChef to perform AES encryption on sample data.
 ### Steps:
 1. Open CyberChef
 2. Add "AES Encrypt" operation
-3. Input sample text:
+3. Input text:
    cybersecurity is powerful
-4. Configure:
+4. Set:
    - Key: gomycodegomycode
    - Mode: CBC
 5. Generate encrypted output
 
-### Result:
-The plaintext was successfully encrypted into hexadecimal ciphertext.
+### Result
+The plaintext was successfully encrypted into ciphertext (Hex format).
 
-### Learning Outcome:
-- Understood how AES encryption works
-- Learned how keys and IV affect encryption
-- Practiced data transformation using CyberChef
+---
+
+## Screenshots
+
+### AES Encryption Setup
+
+
+
+### Encryption Output
+![Output](screenshots/aes-encryption-result.png)

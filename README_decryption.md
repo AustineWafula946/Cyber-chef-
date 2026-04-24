@@ -26,7 +26,7 @@ print(result)  # cybersecurity is powerful
 
 
 Expected output:
-```
+
 Ciphertext (hex) : 5c7b032ac3c808928b44d7e80076caf07966e382a2056e5890df68b2ecaf97d9
 Decrypted text   : cybersecurity is powerful
 
@@ -38,6 +38,6 @@ Decrypted text   : cybersecurity is powerful
 4. The result is decoded as a UTF-8 string
 
 SCREENSHOT
-<img width="1918" height="829" alt="image" src="https://github.com/user-attachments/assets/a6a8043e-2db0-475b-8dbc-90094c12e0ca" />
+<img width="1918" height="829" alt="image" src="https://github.com/user-attachments/assets/5b8281de-8484-4ee0-9ea2-7d7e1318de7d" />
 
 

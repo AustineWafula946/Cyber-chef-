@@ -15,13 +15,8 @@ This is the decryption counterpart to the AES Encryption script.
 | Mode       | CBC                                                                |
 | **Output** | **`cybersecurity is powerful`**                                    |
 
----
 
-## Requirements
 
-```bash
-pip install pycryptodome
-```
 
 ## Usage
 
@@ -36,11 +31,6 @@ result = aes_decrypt(
 print(result)  # cybersecurity is powerful
 ```
 
-## Run directly
-
-```bash
-python aes_decryption.py
-```
 
 Expected output:
 ```
@@ -55,5 +45,7 @@ Decrypted text   : cybersecurity is powerful
 3. PKCS7 padding is removed
 4. The result is decoded as a UTF-8 string
 
-## Related
-- [AES Encryption](../aes_encryption/aes_encryption.py) — matching encryption script
+SCREENSHOT
+<img width="1918" height="829" alt="image" src="https://github.com/user-attachments/assets/a6a8043e-2db0-475b-8dbc-90094c12e0ca" />
+
+

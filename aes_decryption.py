@@ -1,6 +1,3 @@
-from Crypto.Cipher import AES
-from Crypto.Util.Padding import unpad
-import binascii
 
 def aes_decrypt(ciphertext_hex, key, iv, mode=AES.MODE_CBC):
     """
